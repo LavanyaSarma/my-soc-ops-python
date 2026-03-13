@@ -1,0 +1,7 @@
+sources:
+  - endpoint-edr
+  - email-gateway
+
+enrichment:
+  geolocation: true
+  whois: true
